@@ -4,7 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 
-src/*/appsettings.json
+src/AdminSite/appsettings.json
+src/CustomerSite/appsettings.json
 
 # User-specific files
 *.rsuser
